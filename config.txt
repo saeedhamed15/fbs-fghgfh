@@ -1,0 +1,6 @@
+﻿token=NTY1NDQ4MjU5OTY4MTcyMDQz.XK2k4Q.vyuq61M9FC6LNeKoK1j2Z0KhDyI
+owner=518007790556545044
+prefix= a
+game=p
+stayinchannel=true
+songinstatus=true 
